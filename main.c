@@ -18,16 +18,16 @@ int main(){
 			case 1:
 				result = (float) add(a,b);
 				break;
-//			case 2:
-//				result = (float) sub(a,b);
-//				break;
+			case 2:
+				result = (float) sub(a,b);
+				break;
 			case 3:
 				result = (float) mul(a,b);
 				break;
 
-//			case 4:
-//				result = divine(a,b);
-//				break;
+			case 4:
+				result = divine(a,b);
+				break;
 		
 			default:
 			printf("Loi!\n");
